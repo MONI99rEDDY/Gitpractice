@@ -9,6 +9,10 @@ This is the first line of code from usa
 
 "Hi Mammu again from USA this is to be coded in Java"
 
+<<<<<<< HEAD
 "Please use java libraries
 
 "New line of code from usa"
+Crazy I don't understand Java but I know Python
+Mammu from USA doing some merge changes 
+>>>>>>> 42245a4aa012003b9e13237f369840d8a9c62e51
